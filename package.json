@@ -1,0 +1,21 @@
+{
+  "name": "position.css",
+  "version": "0.0.0",
+  "description": "Functional CSS position classes",
+  "author": "Ryan Van Etten",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/position.css.git"
+  },
+  "keywords": [
+    "css",
+    "position",
+    "positioning",
+    "functional-css"
+  ],
+  "bugs": {
+    "url": "https://github.com/ryanve/position.css/issues"
+  },
+  "homepage": "https://github.com/ryanve/position.css"
+}
