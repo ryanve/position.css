@@ -5,9 +5,13 @@
   "author": "Ryan Van Etten",
   "license": "ISC",
   "main": "position.css",
+  "homepage": "https://github.com/ryanve/position.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ryanve/position.css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanve/position.css/issues"
   },
   "keywords": [
     "css",
@@ -15,9 +19,5 @@
     "position",
     "positioning",
     "functional-css"
-  ],
-  "bugs": {
-    "url": "https://github.com/ryanve/position.css/issues"
-  },
-  "homepage": "https://github.com/ryanve/position.css"
+  ]
 }
