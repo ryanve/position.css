@@ -4,6 +4,7 @@
   "description": "Functional CSS position classes",
   "author": "Ryan Van Etten",
   "license": "ISC",
+  "main": "position.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ryanve/position.css.git"
